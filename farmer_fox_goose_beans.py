@@ -1,11 +1,10 @@
 import sys
 
-
+# Variables that will be used by the functions below
 farmer = 'farmer'
 fox = 'fox'
 goose = 'goose'
 beans = 'beans'
-
 items = [farmer, fox, goose, beans]
 banks = [items[:], []]
 
